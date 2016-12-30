@@ -1,6 +1,7 @@
-##A script to quickly select the MPAs generated before in the reef cell domain map.
-##Be sure that the mpaCells textfile you are refering to corresponds to the resolution of the layer you indicate.
-##M Kapur 08 Oct 2015
+## A script to quickly select the cells randomly chosen as MPAs using selectMPAnut.py script. Useful for visualization.
+## Note: Be sure that the mpaCells textfile you are refering to corresponds to the resolution of the layer you indicate.
+## M Kapur 08 Oct 2015
+## Update 29 Dec 2016
 
 import os
 
