@@ -1,8 +1,6 @@
-# Name: CalculateField_Ranges.py
-# Description: Use CalculateField with a codeblock to calculate values
-#  based on ranges
+# A script to be used in ArcGIS to assign subregions to DAR FishChart Map. 
+# This helped match polygons from fishery reporting regions to one of the four subregions used in CORSET
 
- 
 # Import system modules
 import arcpy
 from arcpy import env
